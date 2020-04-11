@@ -1,4 +1,5 @@
 *(c)2020 @btconometrics *
+*PayNyms: PM8TJM21BotU4qbspoYeUABiH1GqvNeD3fgAQLb9DtR5ouUqrPWeCnRzx4N6S4VenX7wWYMA7NhnCu1SJpCXTFp97HTF4oodKEqtPDEeL4amCuq3Z4VC
 *written with stata 14*
 
 *get daily data from coinmetrics and yahoo finance*
