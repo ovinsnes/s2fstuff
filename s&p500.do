@@ -46,10 +46,15 @@ keep lnprice lns2f date diffmean
 merge 1:1 date using `sp500'
 gen lnclose = ln(close)
 reg lnprice lnclose
+estat bgod
+prais lnprice lnclose
 zandrews lnprice
 zandrews lnclose
 zandrews d.lnprice
 zandrews d.lnclose
 ardl lnprice lnclose, ec
 estat ectest
+prais lnprice lnclose lns2f
+predict yhat
+tsline yhat lnprice if date>d(1jan2010)
 
