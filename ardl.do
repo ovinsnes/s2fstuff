@@ -1,5 +1,6 @@
 *(c)2019-2020 @btconometrics *
-*BTC: 18sCrV4EZ3FzfQ3H7iamx9HKzKZoC1AMtz *
+*PayNyms: PM8TJM21BotU4qbspoYeUABiH1GqvNeD3fgAQLb9DtR5ouUqrPWeCnRzx4N6S4VenX7wWYMA7NhnCu1SJpCXTFp97HTF4oodKEqtPDEeL4amCuq3Z4VC
+
 *written with stata 14*
 *in support of https://medium.com/@btconometrics/stock-to-flow-influences-on-bitcoin-price-8a52e475c7a1*
 
